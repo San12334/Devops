@@ -34,6 +34,10 @@ git add -A
 git commit -m "label"
 git log
 git show cid
+touch file2 file3 file4
+git status
+git add file2 file3 file4
+git reset --mixed cid  (local to workspace)
 
 git add file1  (workspace to staging)
 git reset head file1  (staging to workspace)
