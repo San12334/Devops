@@ -1,0 +1,28 @@
+ruthvik
+git push origin branch-name
+or
+git push path/of/c-repo branch-name
+
+git branch release2
+git checkout release2
+or
+git checkout -b release2
+
+git branch -d branch-name (local delete)
+git branch -D branch-name
+
+git push origin -d branch-name (central delete)
+
+git push origin branch-name
+or
+git push path/of/c-repo branch-name
+
+git branch release2
+git checkout release2
+or
+git checkout -b release2
+
+git branch -d branch-name (local delete)
+git branch -D branch-name
+
+git push origin -d branch-name (central delete)
