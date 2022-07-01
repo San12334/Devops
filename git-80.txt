@@ -11,6 +11,8 @@ git config --global --unset user.name
 git config --global --unset user.email
 
 ==================
+touch file2 file3 file4
+touch file2 file3 file4
 
 touch file1
 ls
@@ -38,6 +40,7 @@ git add -A
 git commit -m "label"
 git log
 git show cid
+touch file2 file3 file4
 touch file2 file3 file4
 git status
 git add file2 file3 file4
