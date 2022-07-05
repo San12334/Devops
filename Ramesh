@@ -19,6 +19,9 @@ git commit -m "label" file1
 git status
 git log
 git show cid
+vjfvjfjbjnbjgnbng
+mkkmgbmkg
+
 
 
 touch file2 file3 file4 
@@ -29,7 +32,10 @@ git add .
 or
 git add *
 or
-git add -A
+lmkgmkbmgkmbgm
+ bkg kbgkb
+ k bkg  g 
+ git add -A
 
 git commit -m "label"
 git log
