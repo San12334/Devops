@@ -14,13 +14,11 @@ touch file1
 ls
 git status
 git add file1
-mfjbnjbjgjgjbnjgjnbjbn
 git status
 git commit -m "label" file1
 git status
 git log
 git show cid
-vnjfjbfjbjbfjgbjbjgjbg
 
 
 touch file2 file3 file4 
@@ -36,5 +34,3 @@ git add -A
 git commit -m "label"
 git log
 git show cid
-vbvhfhvbhf
-
