@@ -1,0 +1,5 @@
+git log
+git commit
+git stash
+git amend
+git tags
