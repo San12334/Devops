@@ -38,9 +38,6 @@ or
 git add *
 or
 git add -A
-..............................
-,ksbfhdvgcvhgdvbv
-nhbhhvb
 
 git commit -m "label"
 git log
@@ -50,12 +47,6 @@ touch file2 file3 file4
 git status
 git add file2 file3 file4
 git reset --mixed cid  (local to workspace)
-vkfnbnjnbjgnb
-'kjnjnjb
-njvbfbjvnfb
-bhbhbhdv
-nbbjnd
-f
 
 git add file1  (workspace to staging)
 git reset head file1  (staging to workspace)
